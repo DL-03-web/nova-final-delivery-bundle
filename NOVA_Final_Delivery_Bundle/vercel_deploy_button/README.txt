@@ -1,0 +1,1 @@
+Deploy your site: https://vercel.com/import/project?template=https://github.com/yourusername/nova

@@ -1,0 +1,1 @@
+This folder should contain your finalized NOVA platform PDF guide.

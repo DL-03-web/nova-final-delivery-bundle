@@ -1,0 +1,3 @@
+Admin URL: https://your-nova-site.vercel.app/admin
+Email: admin@example.com
+Password: yourpassword
